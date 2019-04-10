@@ -3,8 +3,6 @@
 
 from django import forms
 from excel import models
-from django.core import validators
-from django.core.exceptions import ValidationError
 
 
 class BxEverydayContrastData_form(forms.ModelForm):
