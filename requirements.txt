@@ -43,7 +43,7 @@ psycopg2==2.7.4
 pyasn1==0.4.4
 pycparser==2.19
 pycrypto==2.6.1
-Pygments==2.0.1
+Pygments==2.7.4
 PyInstaller==3.4
 PyMySQL==0.8.0
 pyparsing==2.2.0
